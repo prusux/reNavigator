@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">reNavigator</string>
+    <string name="notification_channel_name">Navigation Alerts</string>
+    <string name="notification_channel_desc">Alerts when a #nav destination is received from passengers</string>
+</resources>
